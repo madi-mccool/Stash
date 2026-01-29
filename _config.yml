@@ -1,0 +1,8 @@
+title: Stash
+description: Ideas, experiments, and random projects
+theme: minima
+markdown: kramdown
+
+exclude:
+  - README.md
+  - LICENSE
