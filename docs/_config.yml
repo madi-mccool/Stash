@@ -3,6 +3,12 @@ description: Ideas, experiments, and random projects
 theme: minima
 markdown: kramdown
 
+header_pages:
+  - ideas.md
+  - projects.md
+  - snippets.md
+  - notes.md
+
 exclude:
   - README.md
   - LICENSE
